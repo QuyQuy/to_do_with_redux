@@ -1,19 +1,21 @@
-# React Starter
-
-> This repo contains boilerplate code to aid in the creation of a new React app with Redux. Follow the below setup instructions to get started.
+# to do with redux
+> to do app built with reactjs and reduxjs
 
 ### Setup Instructions
 
 > 1. Fork this repo
 > 1. Clone your forked copy of this repo
 >    - `git clone https://github.com/[Your Username]/react_starter.git`
+/to_do_with_redux
+ T
 > 1. Change directory into the newly cloned repo
->    - `cd react_starter`
+>    - `cd rto_do_with_redux
+            T`
 > 1. Install dependencies 
 >    - `npm install`
 > 1. Start dev server
 >    - `npm start`
-> 1. Open a browser and navigate to `localhost:3000` You should see a page that displays "Welcome to React!"
+> 1. Open a browser and navigate to `localhost:3000` You should now see the to do list app!
 
 ### Bundle For Deployment
 
