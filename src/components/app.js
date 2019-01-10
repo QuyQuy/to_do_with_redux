@@ -9,8 +9,12 @@ import AddItem from './add_item'
 const App = () => (
         <div className="container">
         <Route exact path="/" component={List}/>
-        <Route path='/add_item' component={AddItem} />
+        <Route path='/add-item' component={AddItem} />
        </div>
 );
 
 export default App;
+
+
+
+
